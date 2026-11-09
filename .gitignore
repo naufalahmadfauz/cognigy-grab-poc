@@ -1,0 +1,6 @@
+# Never commit credentials or session material
+siwc_credentials.json
+siwc_host_id.json
+siwc_access_grant.json
+.env
+*.token
